@@ -1,5 +1,7 @@
 # Dominant-Color-Selection-for-Image-Segmentation
 
-In this project, we will partition an image into regions having similar appearance corresponmding to parts of objects
-We will try to extract the most dominant 'K' Colors using K-Means
+In this project, we will partition an image into regions having similar appearance corresponmding to parts of objects.
+<br>
+We will try to extract the most dominant 'K' Colors using K-Means.
+<br>
 We can apply K-Means with each pixel will reassigned to the closest of the K Colors, leading to segmentation
